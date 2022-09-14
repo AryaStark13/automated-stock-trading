@@ -1,0 +1,22 @@
+portfolio: {}
+default:
+  contract:
+    currency: INR
+    exchange: NSE
+    security_type: STK
+    mkt_open: '9:15'
+    mkt_close: '15:30' 
+  candle_size: 1 min
+  spread: 0.5
+  overnight_spread: 0.3
+  max_limit: 20
+  stoploss: 0.05
+
+IDEA:
+  symbol: IDEA
+  spread: 0.1
+  quantum: 10
+SBIN:
+  symbol: SBIN
+  spread: 0.3
+  quantum: 5

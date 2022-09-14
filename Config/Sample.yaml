@@ -1,0 +1,111 @@
+portfolio: {}
+default:
+  candle_size: 1 min
+  contract:
+    currency: INR
+    exchange: NSE
+    mkt_close: '15:30'
+    mkt_open: '9:15'
+    security_type: FUT
+    trade_close: '15:10'
+    trade_open: '9:15'
+SAIL:
+  symbol: SAIL
+SUNTV:
+  symbol: SUNTV
+NATIONALU:
+  symbol: NATIONALU
+BEL:
+  symbol: BEL
+ADANIPORT:
+  symbol: ADANIPORT
+TATAMOTOR:
+  symbol: TATAMOTOR
+ICICIBANK:
+  symbol: ICICIBANK
+JUBLFOOD:
+  symbol: JUBLFOOD
+CUB:
+  symbol: CUB
+GNFC:
+  symbol: GNFC
+GUJGASLTD:
+  symbol: GUJGASLTD
+APOLLOTYR:
+  symbol: APOLLOTYR
+TORNTPOWE:
+  symbol: TORNTPOWE
+IGL:
+  symbol: IGL
+CANBK:
+  symbol: CANBK
+TATACONSU:
+  symbol: TATACONSU
+BHARATFOR:
+  symbol: BHARATFOR
+UPL:
+  symbol: UPL
+INDIACEM:
+  symbol: INDIACEM
+HINDPETRO:
+  symbol: HINDPETRO
+INDHOTEL:
+  symbol: INDHOTEL
+ABFRL:
+  symbol: ABFRL
+ASHOKLEY:
+  symbol: ASHOKLEY
+HDFCBANK:
+  symbol: HDFCBANK
+DLF:
+  symbol: DLF
+MANAPPURA:
+  symbol: MANAPPURA
+AXISBANK:
+  symbol: AXISBANK
+JINDALSTE:
+  symbol: JINDALSTE
+GODREJCP:
+  symbol: GODREJCP
+IRCTC:
+  symbol: IRCTC
+UBL:
+  symbol: UBL
+KOTAKBANK:
+  symbol: KOTAKBANK
+ICICIGI:
+  symbol: ICICIGI
+BANKBAROD:
+  symbol: BANKBAROD
+JSWSTEEL:
+  symbol: JSWSTEEL
+BPCL:
+  symbol: BPCL
+HINDALCO:
+  symbol: HINDALCO
+AMBUJACEM:
+  symbol: AMBUJACEM
+PFC:
+  symbol: PFC
+MM:
+  symbol: MM
+SBICARD:
+  symbol: SBICARD
+MGL:
+  symbol: MGL
+MMFIN:
+  symbol: MMFIN
+CHAMBLFER:
+  symbol: CHAMBLFER
+HAVELLS:
+  symbol: HAVELLS
+COALINDIA:
+  symbol: COALINDIA
+LUPIN:
+  symbol: LUPIN
+BHARTIART:
+  symbol: BHARTIART
+CIPLA:
+  symbol: CIPLA
+GRANULES:
+  symbol: GRANULES

@@ -1,0 +1,9 @@
+1. Update 21 days data - Take downloading script from Sankalp
+
+2. Run Backtesting code - ./Regression Codes/regression-strategy-1.ipynb
+
+3. Top 50 Stocks to PKL - ./Stocks to PKL/Top 50/top_50.ipynb
+
+4. Update Sample.yaml - ./Update Sample YAML/update_sample_yaml.ipynb
+
+5. Paper Trading Code - "C:\Users\ariha\Desktop\regression-algorithm-nts\regression-algorithm\TechnicalFilters.py"

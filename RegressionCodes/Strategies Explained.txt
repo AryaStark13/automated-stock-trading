@@ -1,0 +1,21 @@
+Strategy - 1:
+
+0 --> 1 --> -1 --> 0 (After 3.00)
+
+Takes 1 position when slope > BT
+Takes -1 position when slope < ST
+
+No New Positions taken after 3.00, existing positions are only squared-off.
+At 3.28, all existing positions are force squared-off.
+
+
+Strategy - 2:
+
+0 --> 1 --> 0 --> -1 --> 0 
+Takes 1 position when slope > BT
+Returns to 0 position when slope < 0
+Takes -1 position when slope < ST
+Returns to 0 position when slope > 0
+
+No New Positions taken after 3.15, existing positions are only squared-off.
+At 3.28, all existing positions are force squared-off.
